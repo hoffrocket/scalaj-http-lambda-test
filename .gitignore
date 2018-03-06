@@ -1,0 +1,5 @@
+.sbtlib
+lib_managed
+target
+project/project
+project/target
